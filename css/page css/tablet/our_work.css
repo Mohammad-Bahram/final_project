@@ -1,0 +1,131 @@
+.our__work {
+  height: fit-content;
+  padding-top: 80px;
+  margin-bottom: 64px;
+}
+.our__work .our__work__center .our__work__title h5 {
+  color: var(--Dark-blue, #282938);
+
+  /* Heading 2 */
+  font-family: Poppins;
+  font-size: 38px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 64px; /* 133.333% */
+}
+
+.our__work .our__work__center .our__work__title a {
+  color: #282938;
+  font-family: Poppins;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 18px; /* 175% */
+  text-decoration: none;
+  text-transform: capitalize;
+}
+.our__work .our__work__center .our__work__cards .left__card .before {
+  width: 47.0308789%;
+  height: inherit;
+  flex-shrink: 0;
+  background: linear-gradient(
+    329deg,
+    #1c1e53 -10.96%,
+    rgba(28, 30, 83, 0.42) 103.96%
+  );
+  position: absolute;
+  top: 0;
+  left: -46.5%;
+  transition: 300ms;
+}
+.our__work .our__work__center .our__work__cards .left__card:hover .before {
+  left: 0;
+}
+.our__work
+  .our__work__center
+  .our__work__cards
+  .left__card
+  .before
+  .befoore__cover
+  div
+  h5 {
+  color: var(--White, #fff);
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 18px; /* 150% */
+}
+.our__work
+  .our__work__center
+  .our__work__cards
+  .left__card
+  .before
+  .befoore__cover
+  div
+  p {
+  color: var(--White, #fff);
+  font-family: Poppins;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 15px; /* 175% */
+  opacity: 0.8;
+}
+.our__work
+  .our__work__center
+  .our__work__cards
+  .left__card
+  .before
+  .befoore__cover
+  div
+  a {
+  color: var(--Yellow, #fcd980);
+  font-family: Poppins;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 0px; /* 175% */
+  text-decoration: none;
+  gap: 0 5.11182109%;
+}
+.our__work .our__work__center .our__work__cards .right__card .before_1 {
+  background: linear-gradient(
+    329deg,
+    #1c1e53 -10.96%,
+    rgba(28, 30, 83, 0.42) 103.96%
+  );
+  width: 100%;
+  height: inherit;
+}
+.our__work
+  .our__work__center
+  .our__work__cards
+  .right__card
+  div
+  .before_1
+  div
+  h5 {
+  color: var(--White, #fff);
+  font-family: Poppins;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 26px; /* 150% */
+}
+
+.our__work
+  .our__work__center
+  .our__work__cards
+  .right__card
+  div
+  .before_1
+  div
+  a {
+  color: var(--Yellow, #fcd980);
+  font-family: Poppins;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 0px; /* 175% */
+}

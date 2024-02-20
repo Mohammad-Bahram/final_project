@@ -1,0 +1,79 @@
+footer div div div div p {
+  font-family: Poppins;
+  font-weight: 500;
+  font-size: 10px;
+  line-height: 15px;
+  color: white;
+}
+footer div div div h5 {
+  font-family: Poppins;
+  width: 83%;
+  font-size: 35px;
+  font-weight: 600;
+  line-height: 20px;
+  margin-bottom: 14px;
+  color: white;
+}
+footer div div div p {
+  font-family: Poppins;
+  font-size: 10px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0em;
+  text-align: left;
+  opacity: 80%;
+  margin-bottom: 5px;
+}
+footer div div div h4 {
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #282938;
+}
+footer div div div h4 ~ p {
+  font-family: Poppins;
+  font-size: 10px;
+  font-weight: 400;
+  line-height: 28px;
+  letter-spacing: 0em;
+  text-align: left;
+  height: 28px;
+  top: 353px;
+  left: 197px;
+  opacity: 80%;
+
+  color: #282938;
+}
+footer nav {
+  width: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: end;
+  gap: 0 3.7%;
+}
+footer nav div a {
+  display: block;
+  font-family: Poppins;
+  font-size: 8px;
+  font-weight: 500;
+  line-height: 28px;
+  letter-spacing: 0em;
+  text-align: left;
+  text-transform: capitalize;
+  transition: 300ms;
+}
+footer nav div a:hover {
+  color: darkblue;
+}
+footer .copy_right {
+  font-family: Poppins;
+  font-size: 10px;
+  font-weight: 500;
+  line-height: 28px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #282938;
+}

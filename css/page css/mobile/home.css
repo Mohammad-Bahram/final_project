@@ -1,0 +1,55 @@
+.home{
+  height: 600px;
+}
+.wrapper .home .left .left__cover .A h5 {
+  color: var(--White, #fff);
+  /* Heading 1 */
+  font-family: Poppins;
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 600;
+  margin-bottom: 24px;
+  line-height: 30px; /* 137.037% */
+}
+.wrapper .home .left .left__cover .B p {
+  color: var(--White, #fff);
+  /* Paragraph */
+  font-family: Poppins;
+  font-size: 14px !important;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20px; /* 175% */
+  opacity: 0.7;
+}
+.A , .B{
+text-align: center;
+}
+.wrapper .home .left .left__cover .C div:nth-of-type(1) a {
+  border-radius: 41px;
+  background: #fcd980;
+  text-align: center;
+  line-height: 50px;
+  width: 140px;
+  height: 50px;
+  display: block;
+  text-decoration: none;
+  text-transform: capitalize;
+  color: #1b1c2b;
+  font-family: Manrope;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 600;
+}
+.wrapper .home .left .left__cover .C div:nth-of-type(2) a {
+  color: var(--White, #fff);
+  font-family: Poppins;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 28px; /* 175% */
+  text-decoration: none;
+  text-transform: capitalize;
+}
+.right{
+    margin-bottom: 40px;
+}

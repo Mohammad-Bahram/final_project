@@ -1,0 +1,60 @@
+.testimonials{
+    padding-bottom: 64px;
+}
+.testimonials .testimonials__center .testimonials__left div h5 {
+  color: var(--Dark-blue, #282938);
+
+  /* Heading 3 */
+  font-family: Poppins;
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 20px; /* 147.368% */
+}
+.testimonials .testimonials__center .testimonials__left div p {
+  color: var(--Dark-blue, #282938);
+
+  /* Paragraph */
+  font-family: Poppins;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20px; /* 175% */
+  opacity: 0.7;
+}
+.testimonials .testimonials__center .testimonials__right div p {
+  color: var(--Dark-blue, #282938);
+
+  /* Heading 5 */
+  font-family: Poppins;
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 25px; /* 150% */
+}
+.testimonials
+  .testimonials__center
+  .testimonials__right:nth-child(2)
+  div
+  div
+  h4 {
+  color: var(--Dark-blue, #282938);
+  font-family: Poppins;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 20px; /* 177.778% */
+}
+.testimonials
+  .testimonials__center
+  .testimonials__right:nth-child(2)
+  div
+  div
+  h5 {
+  color: var(--Dark-blue, #282938);
+  font-family: Poppins;
+  font-size: 8px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 20px; /* 233.333% */
+}

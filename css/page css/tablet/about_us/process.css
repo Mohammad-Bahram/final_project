@@ -1,0 +1,33 @@
+.process{
+    margin-bottom: 84px;
+}
+.process .process_center div h5 {
+  font-family: Poppins;
+  font-size: 35px;
+  font-weight: 600;
+  line-height: 64px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #282938;
+}
+.process .process_center div:nth-of-type(2) h5 {
+  color: #282938;
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 36px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.process .process_center div:nth-of-type(2) p {
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0em;
+  text-align: left;
+  opacity: 0.7;
+}
+.process .process_center div:nth-of-type(2) svg {
+  width: 100%;
+}

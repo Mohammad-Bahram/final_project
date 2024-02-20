@@ -1,0 +1,56 @@
+.our_blog {
+  margin-bottom: 84x;
+}
+.our_blog .our_blog_center div h5 {
+  color: var(--Dark-blue, #282938);
+
+  /* Heading 2 */
+  font-family: Poppins;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 20px; /* 133.333% */
+}
+.our_blog .our_blog_center div:not(.our_blog_center_down div) {
+  margin-bottom: 64px;
+}
+.our_blog .our_blog_center .our_blog_center_down div h5 {
+  color: var(--Dark-blue, #282938);
+
+  /* Heading 6 */
+  font-family: Poppins;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 20px; /* 150% */
+}
+.our_blog .our_blog_center .our_blog_center_down div div span {
+  color: var(--Dark-blue, #282938);
+  font-family: Poppins;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 20px; /* 175% */
+  opacity: 0.7;
+}
+.our_blog .our_blog_center .our_blog_center_down div div a {
+  text-decoration: none;
+  text-transform: capitalize;
+  display: flex;
+  width: 100%;
+  flex-flow: row wrap;
+  gap: 0 12px;
+  align-items: center;
+}
+.our_blog .our_blog_center .our_blog_center_down div div a span {
+  color: #282938;
+  font-family: Poppins;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 28px; /* 175% */
+}
+.our_blog .our_blog_center .our_blog_center_down div div img {
+  width: 100%;
+  object-fit: cover;
+}

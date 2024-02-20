@@ -1,0 +1,41 @@
+.wrapper header .navbar .middle__navbar nav div a {
+  color: #bbbbcb;
+  font-family: Poppins;
+  display: block;
+  text-transform: capitalize;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 28px; /* 175% */
+  text-decoration: none;
+  text-align: center;
+  transition: 300ms;
+}.wrapper header .navbar .middle__navbar nav div {
+    width: fit-content !important;
+    margin: 0 auto;
+}
+.wrapper header .navbar .middle__navbar nav div a:hover{
+  color: white;
+}
+.wrapper header .navbar .middle__navbar nav div .color{
+    color: white;
+    transition: 300ms;
+}
+.wrapper header .navbar .middle__navbar nav div .color:hover{
+  color: #bbbbcb !important;
+}
+.wrapper header .navbar .middle__navbar .btn a {
+  color: white;
+  text-align: center;
+  display: block;
+  height: 60px;
+  width: 100%;
+  border-radius: 41px;
+  border: 2px solid rgba(244, 246, 252, 0.2);
+  line-height: 60px;
+  transition: 300ms;
+}
+.btn{
+  padding: 0;
+  height: inherit;
+}

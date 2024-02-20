@@ -1,0 +1,30 @@
+.process .process_center div h5 {
+  font-family: Poppins;
+  font-size: 3vw;
+  font-weight: 600;
+  line-height: 64px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #282938;
+}
+.process .process_center div:nth-of-type(2) h5 {
+  color: #282938;
+  font-family: Poppins;
+  font-size: 1.5625vw;
+  font-weight: 500;
+  line-height: 36px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.process .process_center div:nth-of-type(2) p {
+  font-family: Poppins;
+  font-size: 1.0416666666666667vw;
+  font-weight: 400;
+  line-height: 28px;
+  letter-spacing: 0em;
+  text-align: left;
+  opacity: 0.7;
+}
+.process .process_center div:nth-of-type(2) svg {
+  width: 100%;
+}

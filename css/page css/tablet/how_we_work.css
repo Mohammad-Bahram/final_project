@@ -1,0 +1,96 @@
+.how__we__work{
+    height: 789px;
+}
+.how__we__work .center .left_2 .mmd-1 h5 {
+  color: var(--Dark-blue, #282938);
+    
+  /* Heading 2 */
+  font-family: Poppins;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 54px; /* 133.333% */
+}
+.how__we__work .center .left_2 .mmd-2 p {
+  color: var(--Dark-blue, #282938);
+  /* Paragraph */
+  font-family: Poppins;
+  text-align: center;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px; /* 175% */
+  opacity: 0.7;
+}
+.how__we__work .center .left_2 .mmd-2 {
+  margin: 0 auto;
+  width: 65%;
+}
+.how__we__work .center .left_2 .mmd-3 p {
+  color: var(--Royal-Blue, #2405f2);
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  line-height: 32px; /* 177.778% */
+  display: flex;
+  flex-flow: row wrap;
+  align-items: center;
+  gap: 0 10px;
+  justify-content: center;
+  font-weight: bolder;
+}
+.how__we__work .center .right_2 .first__work {
+  width: 35px;
+  height: 35px;
+  background-color: #2405f2;
+  border-radius: 8px;
+  position: relative;
+  margin-bottom: 16px;
+  svg {
+    width: 100%;
+    height: inherit;
+    object-fit: cover;
+  }
+}
+
+.how__we__work .center .right_2 .first__work span {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: var(--White, #fff);
+  font-family: Poppins;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 32px; /* 177.778% */
+}
+.how__we__work .center .right_2 .second__work {
+  margin-bottom: 4px;
+}
+.how__we__work .center .right_2 .second__work h5 {
+  color: var(--Dark-blue, #282938);
+
+  /* Heading 5 */
+  font-family: Poppins;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: bolder;
+  line-height: 28px; /* 150% */
+}
+
+.how__we__work .center .right_2 .third__work {
+  width: 92.3780488%;
+  height: 56px;
+}
+.how__we__work .center .right_2 .third__work p {
+  color: var(--Dark-blue, #282938);
+
+  /* Paragraph */
+  font-family: Poppins;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px; /* 175% */
+  opacity: 0.7;
+}

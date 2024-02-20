@@ -1,0 +1,36 @@
+b {
+  color: #2405f2;
+}
+.privacy .privacy_center div div h5 {
+  font-family: Poppins;
+  font-size: 3vw;
+  font-weight: 600;
+  line-height: 64px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+.privacy .privacy_center div div p {
+  font-family: Poppins;
+  font-size: 1vw;
+  font-weight: 400;
+  line-height: 28px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+.privacy .privacy_main div h5 {
+  font-family: Poppins;
+  font-size: 2.4739583333333335vw !important;
+  font-weight: 600;
+  line-height: 56px !important;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.privacy .privacy_main div p {
+  font-family: Poppins;
+  font-size: 1vw;
+  font-weight: 400;
+  line-height: 28px;
+  letter-spacing: 0em;
+  text-align: left !important;
+  opacity: 0.7;
+}

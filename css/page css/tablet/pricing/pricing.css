@@ -1,0 +1,207 @@
+.pricing .pricing_center .pricing_center_first div:nth-child(1) {
+    margin-bottom: 12px;
+  h5 {
+    font-family: Poppins;
+    font-size: 26px;
+    font-weight: 600;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #282938;
+  }
+}
+.pricing .pricing_center .pricing_center_first .special {
+  p {
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #282938;
+  }
+}
+.pricing .pricing_center .pricing_center_second .pricing_center_second_first {
+  background-color: #f4f6fc;
+  border-radius: 12px;
+}
+.pricing_center_second_first
+  .pricing_center_second_first_flex
+  div:nth-of-type(1) {
+  h5 {
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 56px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #282938 !important;
+  }
+}
+.pricing_center_second_first .pricing_center_second_first_flex .second-div {
+  span {
+    font-family: Poppins;
+    font-size: 8px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #2405f2;
+  }
+}
+.pricing_center_second_first-flex2 .first_div_1 {
+  h5 {
+    font-family: Poppins;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #282938 !important;
+  }
+}
+.pricing_center_second_first .second_div_1 {
+  p {
+    font-family: Poppins;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #282938;
+    opacity: 0.7;
+  }
+}
+.pricing_center_second_first .pricing_center_second_first-flex3 {
+  svg {
+    width: 100%;
+    height: inherit;
+  }
+  p {
+    opacity: 0.7;
+    font-family: Poppins;
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: black;
+  }
+}
+
+.pricing_center_second_first .pricing_center_second_first-flex4 {
+  a {
+    display: block;
+    width: 100%;
+    height: inherit;
+    text-align: center;
+    line-height: 64px;
+    border-radius: 41px;
+    background-color: #282938;
+    span {
+      font-family: Manrope;
+      font-size: 12px;
+      font-weight: 500;
+      line-height: 32px;
+      letter-spacing: 0em;
+      text-align: left;
+      color: #f4f6fc;
+    }
+  }
+}
+.pricing_center_second_second {
+  border-radius: 12px;
+  background-color: #1c1e53;
+}
+.pricing_center_second_first_flex_1_1 div:nth-of-type(1) {
+  h5 {
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 56px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: white !important;
+  }
+}
+.pricing_center_second_first_flex_1_1 .second-div_1 {
+  span {
+    font-family: Poppins;
+    font-size: 8px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #fcd980;
+  }
+}
+.pricing_center_second_first-flex2_2 .first_div_1_2 {
+  h5 {
+    font-family: Poppins;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: white !important;
+  }
+}
+.pricing_center_second_first-flex2_2 .second_div_1_2 {
+  p {
+    font-family: Poppins;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: white;
+    opacity: 0.7;
+  }
+}
+.pricing_center_second_first-flex3_2 {
+  svg {
+    width: 100%;
+    height: inherit;
+  }
+  p {
+    opacity: 0.7;
+    font-family: Poppins;
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: white;
+  }
+}
+.pricing_center_second_first-flex4_2 {
+  a {
+    display: block;
+    width: 100%;
+    height: inherit;
+    text-align: center;
+    line-height: 64px;
+    border-radius: 41px;
+    background-color: #fcd980;
+    span {
+      font-family: Manrope;
+      font-size: 12px;
+      font-weight: 600;
+      line-height: 32px;
+      letter-spacing: 0em;
+      text-align: left;
+      color: #282938;
+    }
+  }
+}
+.price_circle {
+  width: 89.7815913%;
+  display: none;
+  height: 901px;
+  background-color: #ffffff0f;
+  border-radius: 50%;
+  position: absolute;
+  top: 100px;
+  left: 50%;
+  transform: translate(-50%, -0);
+}
